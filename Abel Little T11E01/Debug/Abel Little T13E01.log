@@ -1,0 +1,54 @@
+﻿  Main.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+  d:\users\mark little\desktop\include\10.0.15063.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(191): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(191): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(225): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(227): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(649): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(656): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(657): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(674): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(682): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(689): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(697): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(737): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(775): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(795): warning C4018: '<': signed/unsigned mismatch
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(807): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(819): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(820): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(821): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(822): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(823): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\mark little\documents\university work\year 3\advanced games programming\tutorial 13\abel little t11e01\main.cpp(841): warning C4018: '<': signed/unsigned mismatch
+  Abel Little T13E01.vcxproj -> D:\Users\Mark Little\Documents\University Work\YEAR 3\Advanced Games Programming\Tutorial 13\Abel Little T11E01\Debug\Abel Little T13E01.exe
+  Abel Little T13E01.vcxproj -> D:\Users\Mark Little\Documents\University Work\YEAR 3\Advanced Games Programming\Tutorial 13\Abel Little T11E01\Debug\Abel Little T13E01.pdb (Partial PDB)
